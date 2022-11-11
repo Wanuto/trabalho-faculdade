@@ -1,0 +1,71 @@
+body{
+    background-image: url(./assets/imagemimagem.webp);
+    
+}
+
+
+#tela-inicial{
+    display: flex;
+    margin-left: 20%;
+}
+
+/*
+main{
+    height: 728px;
+    width: 100px;
+}
+*/
+nav, a{
+    font-family:roboto, sans-serif;
+    font-weight: bold;
+}
+
+
+.logo{
+    margin-top: 10%;
+    height: 200px;
+    width: 200px
+}
+    
+
+
+
+
+.texto-logo{
+    color: black;
+    font-family: roboto, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    margin-left: 30px; 
+    margin-top: 220px ;
+ 
+}
+h2{
+    font-family: roboto, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 60px;
+    color:rgb(73, 129, 0);
+}
+footer{
+    
+    margin-top: 7%; 
+    padding: 1px;
+    text-align: center;
+    background-color: #76c3fa;
+   
+    
+} 
+footer, p {
+    font-family: roboto, sans-serif;
+    color:rgb(73, 129, 0);
+    padding-top: 3px ;
+    
+} 
+body{
+    overflow-y: auto;
+}
+header, main, footer{
+    background-size: 60px calc(100vh - 100px) 25px;
+}
+

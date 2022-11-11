@@ -1,0 +1,24 @@
+
+.card{
+    margin: 0;
+}
+.card-title{
+    margin-top: 9px;
+    font-family: roboto, sans-serif;
+    text-align: center;
+    font-weight: 700;
+
+}
+.testoIngrediente{
+    font-family: roboto, sans-serif;
+    text-align: left;
+    font-weight: 400;
+}
+    
+.card-body, .mododepreparo{
+    font-family: roboto, sans-serif;
+    font-weight: bold;
+    color:black
+}
+  
+    
